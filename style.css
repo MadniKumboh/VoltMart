@@ -47,7 +47,7 @@ footer {
     text-align: center;
 }
 
-
+/* Home Content Section */
 .home-content {
     text-align: center;
     padding: 50px;
@@ -62,4 +62,29 @@ footer {
 
 .home-content p {
     font-size: 1.2em;
+}
+
+/* Product Details Section */
+.product-details {
+    padding: 50px;
+    text-align: center;
+    background-color: #fff;
+}
+
+.product-details img {
+    width: 100%;
+    max-width: 300px;
+    margin-bottom: 20px;
+}
+
+.product-details button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.product-details button:hover {
+    background-color: #555;
 }
