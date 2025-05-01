@@ -47,6 +47,22 @@ footer {
     text-align: center;
 }
 
+/* Promotions Section */
+.promotions {
+    padding: 40px;
+    background-color: #fff;
+}
+
+.promotions h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.promotions p {
+    font-size: 1.5em;
+    text-align: center;
+}
+
 /* Products List Section */
 .products-list {
     padding: 40px;
